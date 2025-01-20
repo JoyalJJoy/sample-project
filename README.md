@@ -1,2 +1,2 @@
 # sample-project
-for project
+this is for a sample
