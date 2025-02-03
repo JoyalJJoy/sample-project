@@ -1,4 +1,5 @@
-// C Program to print the fibonacci series using loops
+//   fibonacci series
+
 #include <stdio.h>
 
 void printFib(int n) {
