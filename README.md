@@ -1,2 +1,1 @@
-# sample-project
-this is for a sample
+hey guys, i'm a sample
